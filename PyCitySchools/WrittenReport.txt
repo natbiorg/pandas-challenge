@@ -1,0 +1,10 @@
+Natalie Raver-Goldsby
+Module 4 Written Report 
+
+Summary
+	In this exercise, I created a district summary, then a summary for the 15 schools within the district. Then I found the lower-performing schools by passing percentage. I then found average scores by grade, school spending, school size, and school type. 
+
+Two Observations 
+	One of the interesting things that I observed was that Per Student Budget doesn't have as much of an effect as I thought it would. The five Highest Performing Schools have comparable or smaller Per Student Budget than the Bottom Performing Schools. This relationship was further explored by looking at average scores by spending per student. Spending has a negative relationship with academic performance (I would have assumed the opposite). One explanation could be that more resources are used to help students who are struggling academically. 
+	I initially also thought school size would have a negative relationship with academic metrics. Larger schools did perform more poorly than medium and small schools but small schools didn't outperform medium schools. Small schools had a better average math score and average reading score, but medium schools had the highest % passing math, reading, and overall. 
+	For both of these observations, the next thing I would do would be to look at other factors that could affect school performance: class size, teacher demographics (income, age, education), parent demographics, unemployment in the area, rates of violence in the area. 
